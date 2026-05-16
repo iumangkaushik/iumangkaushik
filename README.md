@@ -67,6 +67,9 @@
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00FF41)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
 **Network & Systems**
 
