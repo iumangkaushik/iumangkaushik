@@ -11,7 +11,7 @@
  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineer+%7C+VAPT+Specialist;Web+App+Pentester+%7C+Bug+Hunter;OWASP+Top+10+%7C+CEHv13+AI+Certified;BITS+Pilani+%7C+CGPA+8.0%2B;%22The+quieter+you+become%2C+the+more+you+can+hear%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineer+%7C+VAPT+Specialist;Web+App+Pentester+%7C+Bug+Hunter;Security+Tool+Developer+%7C+OSINT;OWASP+Top+10+%7C+CEHv13+AI+Certified;BITS+Pilani+%7C+CGPA+8.0%2B;%22The+quieter+you+become%2C+the+more+you+can+hear%22)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iumangkaushik)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/iumangkaushik)
@@ -33,8 +33,23 @@
   Location : Delhi, India
   Education: B.Sc. Computer Science — BITS Pilani (CGPA 8.0+)
   Status   : VAPT Intern @ Global Institute AI (Mar–Aug 2025)
+  Also     : Cyber Security Intern @ GPCSSI 2026 — Gurugram Police
   Pursuing : OSCP | Always in recon mode...
 ```
+
+---
+
+## `$ ./featured_project --highlight`
+
+> ### 🛡️ [SCINT — Scam Cyber Intelligence Tool](https://github.com/iumangkaushik/SCINT)
+> A full cyber-intelligence platform (CLI **+** Flask web dashboard) that profiles phone numbers, IPs, domains, and emails for fraud risk.
+>
+> `Link-analysis graphs` · `OSINT (breach + domain age)` · `live phone metadata` · `bulk triage` · `analytics + activity map` · `PDF case reports`
+>
+> **Stack:** Python · Flask · SQLite · public threat-intel APIs (AbuseIPDB, VirusTotal, RDAP, XposedOrNot) · libphonenumber
+> Built on fully synthetic data — *GPCSSI 2026, Gurugram Police*.
+>
+> [![SCINT](https://img.shields.io/badge/View_Repo-SCINT-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/iumangkaushik/SCINT)
 
 ---
 
@@ -67,10 +82,12 @@
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00FF41)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=00FF41)
 
 **Network & Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Kali](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
 ![ActiveDirectory](https://img.shields.io/badge/Active_Directory-black?style=for-the-badge&logo=windows&logoColor=9D4EDD)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-black?style=for-the-badge&logoColor=9D4EDD)
 ![OSINT](https://img.shields.io/badge/OSINT-black?style=for-the-badge&logoColor=9D4EDD)
@@ -87,6 +104,11 @@
        ├─ Tools: Burp Suite, Nmap, Gobuster, OSINT
        └─ Authored structured pentest reports with PoC + remediation
 
+[+] Cyber Security Intern — GPCSSI 2026
+    └─ Gurugram Police Cyber Security Internship
+       ├─ Built SCINT: scam / cyber-intelligence platform
+       └─ OSINT, threat-intel APIs, link analysis, reporting
+
 [+] Hands-on Labs & CTF Platforms             Dec 2024 – Present
     └─ 50+ labs on TryHackMe, PortSwigger, picoCTF, OverTheWire
        ├─ Auth flaws, XSS, SQLi, SSRF, CSRF, Access Control
@@ -97,6 +119,19 @@
 
 ## `$ ls ./projects`
 
+<details open>
+<summary><b>🛡️ SCINT — Scam Cyber Intelligence Tool</b></summary>
+
+```python
+# CLI + Flask web dashboard for fraud-risk intelligence
+# Profiles: phone | IP | domain | email
+# Link-analysis graph, OSINT, bulk triage, analytics, PDF reports
+# Python · Flask · SQLite · live public threat-intel APIs
+```
+> 🔗 https://github.com/iumangkaushik/SCINT — full cyber-intelligence platform on synthetic data.
+
+</details>
+
 <details>
 <summary><b>🔐 Image Encryption Tool (Python)</b></summary>
 
@@ -104,7 +139,6 @@
 # AES-based image encryption utility
 # Fernet symmetric cryptography
 # Secure key generation + encrypted file storage
-# Cryptographic best practices for confidentiality
 ```
 > Applied AES/Fernet encryption to image files with secure key handling workflows.
 
@@ -117,7 +151,6 @@
 # Multi-algorithm encryption/decryption utility
 # Supports: AES | DES | RSA
 # Symmetric + Asymmetric cryptographic techniques
-# Modular architecture for extensible workflows
 ```
 > Demonstrates both symmetric and asymmetric crypto in a clean, extensible Python module.
 
