@@ -41,6 +41,17 @@
 
 ## `$ ./featured_project --highlight`
 
+> ### 🛡️ [SecureOX — Browser-Based Security Toolkit](https://github.com/iumangkaushik/SecureOX)
+> A 100% client-side cybersecurity suite with **12 tools** — AES-256-GCM encryption, RSA public-key, image & audio steganography, a **Voice Vault** (encrypt spoken messages), a **phishing-URL detector**, hashing, password tools, secure share links, QR & OCR. Everything runs in the browser via the **Web Crypto API** — no backend, nothing uploaded.
+>
+> `AES-256-GCM` · `RSA-2048` · `Steganography` · `Voice Vault` · `Phishing Detection` · `Offline PWA`
+>
+> **Stack:** React · TypeScript · Vite · Tailwind CSS · Web Crypto API
+>
+> [![SecureOX](https://img.shields.io/badge/View_Repo-SecureOX-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/iumangkaushik/SecureOX)
+
+---
+
 > ### 🛡️ [SCINT — Scam Cyber Intelligence Tool](https://github.com/iumangkaushik/SCINT)
 > A full cyber-intelligence platform (CLI **+** Flask web dashboard) that profiles phone numbers, IPs, domains, and emails for fraud risk.
 >
@@ -120,6 +131,20 @@
 ## `$ ls ./projects`
 
 <details open>
+<summary><b>🛡️ SecureOX — Browser-Based Security Toolkit</b></summary>
+
+```ts
+// 12-tool client-side security suite (React + TypeScript)
+// AES-256-GCM · RSA-2048 · image & audio steganography
+// Voice Vault (encrypt voice messages) · phishing URL detector
+// hashing · passwords · secure share links · QR · OCR
+// 100% in-browser via Web Crypto API — no backend · offline PWA
+```
+> 🔗 https://github.com/iumangkaushik/SecureOX — a complete cybersecurity toolkit that runs entirely in the browser.
+
+</details>
+
+<details>
 <summary><b>🛡️ SCINT — Scam Cyber Intelligence Tool</b></summary>
 
 ```python
