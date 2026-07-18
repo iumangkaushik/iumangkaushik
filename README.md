@@ -41,14 +41,14 @@
 
 ## `$ ./featured_project --highlight`
 
-> ### 🛡️ [SecureOX — Browser-Based Security Toolkit](https://github.com/iumangkaushik/SecureOX)
+> ### 🛡️ [KAUSEC — Browser-Based Security Toolkit](https://github.com/iumangkaushik/SecureOX)
 > A 100% client-side cybersecurity suite with **12 tools** — AES-256-GCM encryption, RSA public-key, image & audio steganography, a **Voice Vault** (encrypt spoken messages), a **phishing-URL detector**, hashing, password tools, secure share links, QR & OCR. Everything runs in the browser via the **Web Crypto API** — no backend, nothing uploaded.
 >
 > `AES-256-GCM` · `RSA-2048` · `Steganography` · `Voice Vault` · `Phishing Detection` · `Offline PWA`
 >
 > **Stack:** React · TypeScript · Vite · Tailwind CSS · Web Crypto API
 >
-> [![SecureOX](https://img.shields.io/badge/View_Repo-SecureOX-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/iumangkaushik/SecureOX)
+> [![KAUSEC](https://img.shields.io/badge/View_Repo-KAUSEC-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/iumangkaushik/SecureOX)
 
 ---
 
@@ -131,7 +131,7 @@
 ## `$ ls ./projects`
 
 <details open>
-<summary><b>🛡️ SecureOX — Browser-Based Security Toolkit</b></summary>
+<summary><b>🛡️ KAUSEC — Browser-Based Security Toolkit</b></summary>
 
 ```ts
 // 12-tool client-side security suite (React + TypeScript)
